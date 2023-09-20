@@ -34,3 +34,17 @@ h3 {
   font-weight: 200;
 
 }
+
+.container {
+  margin-top: -20px;
+  width: 100%;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.fa-instagram {
+  font-size: 30px;
+  background: #125688;
+  color: white;
+  text-align: center;
+}
